@@ -8,16 +8,29 @@ body {
     margin: 0;
 }
 
-h1 {
-    padding: 5px;
+h1, h2 {
+    padding: 10px;
+    padding-top: 20px; 
+    text-align: center;
 }
 
 section {
+    position: relative;
+    text-align: center;
     background-color: #005792;
+    height: 150px;
     padding: 10px;
-    margin: 5%;
+    margin-left: 7%;
+    margin-right: 7%;
     border-radius: 0.5%;
     
 }
+
+.buttonHolder {
+    text-align: center;
+    margin: 0.5%;
+    
+}
+
 
 
